@@ -1,0 +1,741 @@
+0x000000000AF57C28  Recebeste a Lâmina de Escama Gelada! Regressa ao[ENTER]Confucius.
+0x000000000AF58518  Recebeste uma Joia do Vento do Norte. Total de Joias do Vento do Norte: %d
+0x000000000B8F2214  Recebeste %s.
+0x000000000B8F5BCC  Recebeste %dx Chave de Asmodeus.
+0x000000000B8F5C74  Recebeste %dx Chama da Morte.
+0x000000000B8F6364  Recebeste Cartas Okey.
+0x000000000B8F65D4  Recebeste %dx Alma Morta.
+0x000000000B8F6604  Recebeste %dx Carta Negra.
+0x000000000B8F6634  Recebeste %dx Água da Vida.
+0x000000000B8F80B4  Recebeste Conjunto(s) de Cartas Okey.
+0x000000000B8FCA84  Recebeste 1 Pão.
+0x000000000B900C04  Recebeste 1 Fruta da Bênção.
+0x000000000B906884  Recebeste 1 Ramo de Homem de Neve.
+0x000000000B90A034  Recebeste 1 Bola de Neve.
+0x000000000B90F3CC  Recebeste %s.
+0x000000000B921FD4  Recebeste 1 Dobrão.
+0x000000000B92B424  Recebeste 100 Dobrões.
+0x000000000B92B874  Recebeste 1 Chocolate.
+0x000000000B92BD84  Recebeste 1 Ramo de Bétula.
+0x000000000B932DF4  Recebeste um pedido de amizade. Consulta a janela da Comunidade.
+0x000000000B939214  Recebeste Deck(s) do Rei.
+0x000000000B939244  Recebeste Cartas do Rei.
+0x000000000B93B9BC  Recebeste %s Won.
+0x000000000B947A74  Recebeste %d Rebentos de Crisântemo.
+0x000000000B947AF4  Recebeste Rebentos de Lírio-do-Vale.
+0x000000000B947B74  Recebeste %d Rebentos de Lírio-do-Vale.
+0x000000000B948694  Recebeste uma recompensa de Guild. Irás encontrá-la no teu inventário.
+0x000000000B949D54  Recebeste Rebentos de Crisântemo.
+0x000000000B949DC4  Recebeste Rebentos de Narciso.
+0x000000000B949DFC  Recebeste %d Rebentos de Narciso.
+0x000000000B949E6C  Recebeste Rebentos de Lírio.
+0x000000000B949EDC  Recebeste %d Rebentos de Lírio.
+0x000000000B949F84  Recebeste Rebentos de Girassol.
+0x000000000B949FBC  Recebeste %d Rebentos de Girassol.
+0x000000000B94A514  Recebeste um Ovo da Páscoa.
+0x000000000B94A994  Recebeste Sementes de Flor.
+0x000000000B94AF34  Recebeste %d Bagas Amargas.
+0x000000000B94AF64  Recebeste %d Bagas de Ouro.
+0x000000000B94BA34  Recebeste %s Yang.
+0x000000000B94BB4C  Recebeste %s Gaya.
+0x000000000B94C114  Recebeste 1 Bola de Futebol.
+0x000000000B94E874  Recebeste %d Bagas Amargas. (Tens %d.)
+0x000000000B95416C  Recebeste uma recompensa de reforço. Consulta o ícone do reforço para saberes mais.
+0x000000000B9588BC  Recebeste uma Bola de Gelado.
+0x000000000B969A84  Recebeste %s %s
+0x000000000B969EE4  Recebeste %s Yang.
+0x000000000B96D274  Recebeste %d resistência. Resistência total: %d
+0x000000000B96EFBC  Recebeste %s EXP de Campeão.
+0x000000000B9743F4  Recebeste 1 Rosa.
+0x000000000B97B3EC  Recebeste Tabuleiro(s) de Yut Nori.
+0x000000000B9C83EC  Recebeste uma recompensa adicional!
+0x000000000DCF611B  Recebeste o item: Remédio
+0x000000000E850EA8  Recebeste a Pedra-Espírita do Dragão.
+0x000000000E8518B8  Recebeste %d Flor(es) Elemental(ais).
+0x000000000E851AE8  Recebeste %d Caixa(s) Zodíaco Vermelha(s).
+0x000000000E851B20  Recebeste %d Caixa(s) do Zodíaco Azul(uis).
+0x000000000E852300  Recebeste uma Espada de Prata +2.
+0x000000000E852450  Recebeste uma Espada Bastarda +2.
+0x000000000E8525A0  Recebeste 5 pontos adicionais de Resistência.
+0x000000000E852808  Recebeste 5 pontos adicionais de Força.
+0x000000000E852840  Recebeste uma Espada Orquídea +2.
+0x000000000E852990  Recebeste uma Espada Bárbara +2.
+0x000000000E85E738  Recebeste %d Pontos de Experiência.
+0x000000000E85EE38  Recebeste um bónus de armazém de %d%% VD.
+0x000000000E85F068  Recebeste um bónus de armazém de %d Defesa.
+0x000000000E85F420  Recebeste %u EXP pelo teu Nível de Campeão.
+0x000000000E85F490  Recebeste um bónus de armazém de %d%% EXP
+0x000000000E85F69B  Recebeste Sementes de Flor.
+0x0000000024FB4010  Recebeste Colar de Cristal+2
+0x0000000024FB4280  Recebeste Colar de Cristal+2
+0x0000000024FB45C0  Recebeste Colar de Cristal+2
+0x0000000024FB9630  Recebeste Colar de Cristal+2
+0x0000000024FB9698  Recebeste Colar de Cristal+2
+0x0000000024FB9700  Recebeste Colar de Cristal+2
+0x0000000024FB97D0  Recebeste Colar de Cristal+2
+0x0000000024FB9838  Recebeste Colar de Cristal+2
+0x0000000024FB9E50  Recebeste Espada Grandiosa+0
+0x0000000024FBA190  Recebeste Colar de Cristal+2
+0x0000000024FBA260  Recebeste Colar de Cristal+2
+0x0000000024FBA2C8  Recebeste Colar de Cristal+2
+0x00000000270F4538  Recebeste toda a resistência das tuas missões. Recebe a recompensa na janela da missão.
+0x00000000270F4C88  Recebeste uma recompensa secreta por teres participado na Caça ao Tesouro %d vezes.
+0x00000000271D0D8D  Recebeste 9}þ\•.´ˆ        AttackType           0
+0x00000000271D85DD  Recebeste usïR„q¶ˆð…'ð…'ð…'type
+0x00000000271D9875  Recebeste uÞì†b-ˆˆ˜'ˆ˜'ˆ˜'ion
+0x000000002723202E  Recebeste 1 Co
+0x00000000272EB293  Recebeste uma Recompensa do Enigma. Consulta a tua Caixa de Mensagens para a aceitares.
+0x00000000272FB168  Recebeste 10 pontos adicionais de probabilidade[ENTER]de Golpe Crítico.
+0x00000000272FB378  Recebeste 5 Poções Vermelhas(P) da Negociadora da[ENTER]Loja Geral.
+0x00000000273B2B18  Recebeste a Lâmina de Escama Gelada! Regressa ao[ENTER]Confucius.
+0x00000000273B2E88  Recebeste uma Joia do Vento do Norte. Total de Joias do Vento do Norte: %d
+0x00000000273B4DD0  Recebeste 550 Pontos de Experiência.[ENTER]Recebeste 1.000 Yang.
+0x00000000273B4DFB  Recebeste 1.000 Yang.
+0x00000000273B5248  Recebeste 48.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.
+0x00000000273B5276  Recebeste 10.000 Yang.
+0x00000000273B52A0  Recebeste 45.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.
+0x00000000273B52CE  Recebeste 10.000 Yang.
+0x00000000273B52F8  Recebeste 1.000.000 Pontos de Experiência.[ENTER]Recebeste 15.000 Yang.
+0x00000000273B5329  Recebeste 15.000 Yang.
+0x00000000273B5508  Recebeste 9.500 Pontos de Experiência.[ENTER]Recebeste 2.000 Yang.
+0x00000000273B5535  Recebeste 2.000 Yang.
+0x00000000273B55B8  Recebeste 1.500.000 Pontos de Experiência.[ENTER]Recebeste 20.000 Yang.
+0x00000000273B55E9  Recebeste 20.000 Yang.
+0x00000000273B5770  Recebeste 100.000 Pontos de Experiência.[ENTER]Recebeste 5.000 Yang.
+0x00000000273B579F  Recebeste 5.000 Yang.
+0x00000000273B7030  Recebeste uma Caixa![ENTER]Clica com o botão direito para a abrires.
+0x00000000273B8000  Recebeste 750.000 Pontos de Experiência.[ENTER]Recebeste 2 Pedaços de Sushi.
+0x00000000273B802F  Recebeste 2 Pedaços de Sushi.
+0x00000000273B8318  Recebeste 50.000 Pontos de Experiência.[ENTER]Recebeste 8.000 Yang.
+0x00000000273B8346  Recebeste 8.000 Yang.
+0x00000000273B9B28  Recebeste 1.500 Pontos de Experiência.[ENTER]Recebeste 1.000 Yang.
+0x00000000273B9B55  Recebeste 1.000 Yang.
+0x00000000273B9B80  Recebeste 1.000 Pontos de Experiência.[ENTER]Recebeste 1.500 Yang.
+0x00000000273B9BAD  Recebeste 1.500 Yang.
+0x00000000273BA5D0  Recebeste 122.000 Pontos de Experiência.[ENTER]Recebeste 5.000 Yang.
+0x00000000273BA5FF  Recebeste 5.000 Yang.
+0x00000000273BA680  Recebeste 6.000 Pontos de Experiência.[ENTER]Recebeste 2.000 Yang.
+0x00000000273BA6AD  Recebeste 2.000 Yang.
+0x00000000273BA8E8  Recebeste 4.000 Pontos de Experiência.[ENTER]Recebeste 3.000 Yang.
+0x00000000273BA915  Recebeste 3.000 Yang.
+0x00000000273BAA48  Recebeste 122.000 Pontos de Experiência.[ENTER]Recebeste 20.000 Yang.
+0x00000000273BAA77  Recebeste 20.000 Yang.
+0x00000000273BABA8  Recebeste 26.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.
+0x00000000273BABD6  Recebeste 10.000 Yang.
+0x00000000273BB2E0  Recebeste 300.000 Pontos de Experiência.[ENTER]Recebeste 20.000 Yang.
+0x00000000273BB30F  Recebeste 20.000 Yang.
+0x00000000273BB4F0  Recebeste 1.900.000 Pontos de Experiência.[ENTER]Recebeste 30.000 Yang.
+0x00000000273BB521  Recebeste 30.000 Yang.
+0x00000000273BB548  Recebeste 600.000 Pontos de Experiência.[ENTER]Recebeste 35.000 Yang.
+0x00000000273BB577  Recebeste 35.000 Yang.
+0x00000000273BB860  Recebeste uma Pulseira d'Ouro, um Colar d'Ouro e[ENTER]Brincos d'Ouro.
+0x00000000273BBB20  Recebeste 3 Golpes Críticos.[ENTER]Recebeste 3 Golpes Perfuradores.
+0x00000000273BBB43  Recebeste 3 Golpes Perfuradores.
+0x000000002743351B  Recebeste 10.000 Yang.[ENTER]Recebeste um Livro de Habilidades.
+0x0000000027433538  Recebeste um Livro de Habilidades.
+0x0000000027480DBE  Recebeste Vontade de Sung Ma (FRÇ) +%d.
+0x00000000274C4CC0  Recebeste uma recompensa.
+0x00000000274C4D38  Recebeste uma recompensa.
+0x00000000274C4F68  Recebeste a Bênção da Vida.
+0x00000000274C5378  Recebeste %d Luvas de Ladrão.
+0x00000000274C5418  Recebeste %d bênçãos.
+0x00000000274C5530  Recebeste %d licença de luvas.
+0x00000000274C5CB0  Recebeste %d Pedras do Ritual.
+0x00000000274C6570  Recebeste uma Orison Pequena.
+0x00000000274C6638  Recebeste uma Orison Pequena.
+0x00000000274C6688  Recebeste uma Terceira Mão.
+0x00000000274C6840  Recebeste um Cofre do Dragão.
+0x00000000274C6B88  Recebeste um Livro de Missão.
+0x00000000274C7448  Recebeste %d Forragem.
+0x00000000274C7B00  Recebeste %d Forragem.
+0x00000000274C8A50  Recebeste %s Yang.
+0x00000000274C8B18  Recebeste 5 Bênçãos do Dragão.
+0x000000002753BA23  Recebeste um cofre do tesouro da Pedra Metin.
+0x000000002753C103  Recebeste a Bênção do Templo do Enigma como recompensa.
+0x000000002753C510  Recebeste uma recompensa por teres atingido a posição %d na Caça ao Tesouro.
+0x0000000027548538  Recebeste Pontos de Equitação depois de ler o Livro Arte de Equitação.
+0x00000000277734D8  Recebeste um Anel de Casal.
+0x00000000286E9930  Recebeste Espada Grandiosa+0
+0x00000000286E9AD0  Recebeste Espada Grandiosa+0
+0x00000000286E9B38  Recebeste Espada Grandiosa+0
+0x00000000286E9E10  Recebeste Espada Grandiosa+0
+0x00000000286E9E78  Recebeste Espada Grandiosa+0
+0x00000000286E9EE0  Recebeste Espada Grandiosa+0
+0x0000000028758E70  Recebeste Poção Azul(M)
+0x0000000028758ED8  Recebeste Colar de Cristal+2
+0x0000000028758FA8  Recebeste Colar de Cristal+2
+0x0000000028759010  Recebeste Colar de Cristal+2
+0x0000000028759078  Recebeste Colar de Cristal+2
+0x00000000287590E0  Recebeste Colar de Cristal+2
+0x0000000028759148  Recebeste Colar de Cristal+2
+0x00000000287591B0  Recebeste Colar de Cristal+2
+0x0000000028759350  Recebeste Colar de Cristal+2
+0x00000000287593B8  Recebeste Poção Azul(M)
+0x0000000028759420  Recebeste Poção Azul(M)
+0x0000000028759488  Recebeste Colar de Cristal+2
+0x0000000028759628  Recebeste Poção Azul(M)
+0x0000000028759690  Recebeste Poção Azul(M)
+0x00000000287596F8  Recebeste Poção Azul(M)
+0x0000000028759760  Recebeste Poção Azul(M)
+0x00000000287597C8  Recebeste Colar de Cristal+2
+0x0000000028759830  Recebeste Colar de Cristal+2
+0x00000000287599D0  Recebeste Poção Azul(M)
+0x0000000028759A38  Recebeste Poção Azul(M)
+0x0000000028759AA0  Recebeste Poção Azul(M)
+0x0000000028759B08  Recebeste Poção Azul(M)
+0x000000002875B640  Recebeste Espada Grandiosa+0
+0x000000002875B7E0  Recebeste Espada Grandiosa+0
+0x000000002875C340  Recebeste Espada Grandiosa+0
+0x000000002875C410  Recebeste Espada Grandiosa+0
+0x000000002875C5B0  Recebeste Espada Grandiosa+0
+0x000000002875C680  Recebeste Espada Grandiosa+0
+0x000000002875CA90  Recebeste Espada Grandiosa+0
+0x000000002875CAF8  Recebeste Espada Grandiosa+0
+0x000000002875CBC8  Recebeste Espada Grandiosa+0
+0x000000002875CC30  Recebeste Espada Grandiosa+0
+0x000000002875CC98  Recebeste Espada Grandiosa+0
+0x000000002FE4A9F0  Recebeste Botas em Pele+2
+0x000000002FE4AA58  Recebeste Botas em Pele+2
+0x000000002FE4AAC0  Recebeste Botas em Pele+2
+0x000000002FE4ABF8  Recebeste Botas em Pele+2
+0x000000002FE4B5B8  Recebeste Botas em Pele+2
+0x000000002FE4B688  Recebeste Botas em Pele+2
+0x000000002FE4B9C8  Recebeste Botas em Pele+2
+0x000000002FE4BA30  Recebeste Botas em Pele+2
+0x000000002FE4BA98  Recebeste Botas em Pele+2
+0x000000002FE4BB68  Recebeste Botas em Pele+2
+0x000000002FE4BBD0  Recebeste Botas em Pele+2
+0x000000002FE4BC38  Recebeste Arco de Cobre+0
+0x000000002FE4BD08  Recebeste Arco de Cobre+0
+0x000000002FE4CBA8  Recebeste Arco de Cobre+0
+0x000000002FE4CC10  Recebeste Arco de Cobre+0
+0x000000002FE4CC78  Recebeste Arco de Cobre+0
+0x000000002FE4CD48  Recebeste Arco de Cobre+0
+0x000000002FE4DF90  Recebeste Arco de Cobre+0
+0x000000002FE4E2D0  Recebeste Arco de Cobre+0
+0x000000002FE4E540  Recebeste Arco de Cobre+0
+0x000000002FE4E610  Recebeste Arco de Cobre+0
+0x000000002FE4E950  Recebeste Arco de Cobre+0
+0x00000000309EB1F8  Recebeste 252 Yang.
+0x00000000309EB740  Recebeste 252 Yang.
+0x00000000309EC3D8  Recebeste 252 Yang.
+0x00000000309EC440  Recebeste 252 Yang.
+0x00000000309EC6B0  Recebeste 252 Yang.
+0x00000000309EC718  Recebeste 252 Yang.
+0x00000000309EC7E8  Recebeste 252 Yang.
+0x00000000309EC850  Recebeste 252 Yang.
+0x0000000030A082B8  Recebeste 252 Yang.
+0x0000000030A083F0  Recebeste 252 Yang.
+0x0000000030A08800  Recebeste 252 Yang.
+0x00000000327374C8  Recebeste %s.
+0x000000003318E960  Recebeste uma Moeda da Sorte do Yonah.
+0x000000003318EB58  Recebeste um Anel de Experiência do Yonah.
+0x000000003318ED50  Recebeste umas Luvas de Ladrão do Yonah.
+0x000000003318F3A8  Recebeste o Livro da Providência do Chefe Orc.
+0x000000003318F680  Recebeste o Livro da Providência
+0x000000003318FD80  Recebeste uma Lágrima Fossilizada.
+0x0000000033190218  Recebeste uma Medalha de Equitação.
+0x00000000331903A0  Recebeste %s%% Pontos de Experiência.
+0x0000000033194A10  Recebeste um Diamante do Demónio+.
+0x0000000033194BD0  Recebeste 1.250.000 Pontos de Experiência.
+0x00000000331951F0  Recebeste 7.500.000 Pontos de Experiência.
+0x0000000033195228  Recebeste 1.250.000 Pontos de Experiência.
+0x0000000033195260  Recebeste 2.000.000 Pontos de Experiência.
+0x0000000033195308  Recebeste 3.000.000 Pontos de Experiência.
+0x0000000033195340  Recebeste 5.000.000 Pontos de Experiência.
+0x00000000331953E8  Recebeste 9.500 Pontos de Experiência.
+0x0000000033195420  Recebeste 750.000 Pontos de Experiência.
+0x0000000033195570  Recebeste %d Pontos de Experiência.
+0x00000000331955A8  Recebeste 9.000.000 Pontos de Experiência.
+0x0000000033195618  Recebeste 2.000.000 Pontos de Experiência.
+0x0000000033195688  Recebeste um Símbolo do Rei Sábio
+0x00000000331956F8  Recebeste %s Pontos de Experiência.
+0x0000000033195810  Recebeste 5.500.000 Pontos de Experiência.
+0x0000000033195848  Recebeste uma Luva do Rei Sábio.
+0x0000000033195880  Recebeste 5.500.000 Pontos de Experiência.
+0x0000000033197608  Recebeste 1.250.000 Pontos de Experiência.
+0x0000000033197790  Recebeste 35.000 Pontos de Experiência.
+0x00000000331978E0  Recebeste 20.000 Pontos de Experiência.
+0x00000000331979C0  Recebeste 25.000 Pontos de Experiência.
+0x0000000033197A30  Recebeste %s Pontos de Experiência.
+0x0000000033197CD0  Recebeste 70.000.000 Pontos de Experiência.
+0x0000000033197D78  Recebeste %s Pontos de Experiência.
+0x0000000033198088  Recebeste um Escudo Tigre Monge+3.
+0x0000000033198280  Recebeste 3.750.000 Pontos de Experiência.
+0x0000000033199588  Recebeste %s Pontos de Experiência.
+0x0000000033199EB8  Recebeste uma Armadura da Desgraça+3.
+0x000000003319A078  Recebeste um Robe Cor-de-Rosa+3.
+0x000000003319A778  Recebeste uma Adaga de Tesoura+3.
+0x000000003319ACF0  Recebeste 400.000 Pontos de Experiência.
+0x000000003319AE40  Recebeste 300.000 Pontos de Experiência.
+0x000000003319AEB0  Recebeste 7.000 Pontos de Experiência.
+0x000000003319AF20  Recebeste 15.000 Pontos de Experiência.
+0x000000003319B3B8  Recebeste 900.000 Pontos de Experiência.
+0x000000003319B540  Recebeste 5.000.000 Pontos de Experiência.
+0x000000003319B5E8  Recebeste 200.000 Pontos de Experiência.
+0x000000003319B8F8  Recebeste 850.000 Pontos de Experiência.
+0x000000003319B930  Recebeste 400.000 Pontos de Experiência.
+0x000000003319B9D8  Recebeste Pernas Traseiras de Rã
+0x000000003319BA48  Recebeste 200.000 Pontos de Experiência.
+0x000000003319BAF0  Recebeste 1.800.000 Pontos de Experiência.
+0x000000003319BBD0  Recebeste um Quimono Formiga Rubi+3.
+0x000000003319BC08  Recebeste uma Armadura Fantasma+3.
+0x000000003319BC78  Recebeste 1.100.000 Pontos de Experiência.
+0x000000003319BCB0  Recebeste 1.400.000 Pontos de Experiência.
+0x000000003319BE38  Recebeste um Elmo Máscara Fantasma+1.
+0x000000003319BF18  Recebeste um Capacete Castelo+1.
+0x000000003319BF50  Recebeste um Chapéu da Luz do Sol+1.
+0x000000003319C148  Recebeste 1.000.000 Pontos de Experiência.
+0x000000003319C1B8  Recebeste 1.700.000 Pontos de Experiência.
+0x000000003319C260  Recebeste 1.500.000 Pontos de Experiência.
+0x000000003319C2D0  Recebeste 4.000.000 Pontos de Experiência.
+0x000000003319C308  Recebeste 7.000.000 Pontos de Experiência.
+0x000000003319C378  Recebeste 3.000.000 Pontos de Experiência.
+0x000000003319C3E8  Recebeste 1.300.000 Pontos de Experiência.
+0x000000003319C458  Recebeste 2.300.000 Pontos de Experiência.
+0x000000003319C538  Recebeste 2.500.000 Pontos de Experiência.
+0x000000003319C5E0  Recebeste 2.100.000 Pontos de Experiência.
+0x000000003319C650  Recebeste 350.000 Pontos de Experiência.
+0x000000003319C688  Recebeste 700.000 Pontos de Experiência.
+0x000000003319C880  Recebeste 4.500.000 Pontos de Experiência.
+0x000000003319C928  Recebeste 5.500.000 Pontos de Experiência.
+0x000000003319CC00  Recebeste 3 Escardínios Grelhados.
+0x000000003319CF48  Recebeste um Pergaminho da Guerra.
+0x000000003319CF80  Recebeste 6.000.000 Pontos de Experiência.
+0x000000003319D878  Recebeste um Bónus de Atum de Ouro!
+0x000000003C010BF0  Recebeste um cofre do tesouro da Pedra Metin.
+0x000000003C010E00  Recebeste a Bênção do Templo do Enigma como recompensa.
+0x000000003FC25D78  Recebeste uma Caixa![ENTER]Clica com o botão direito para a abrires.
+0x000000003FC264B0  Recebeste 50.000 Pontos de Experiência.[ENTER]Recebeste 8.000 Yang.
+0x000000003FC264DE  Recebeste 8.000 Yang.
+0x000000003FC26FB0  Recebeste 750.000 Pontos de Experiência.[ENTER]Recebeste 2 Pedaços de Sushi.
+0x000000003FC26FDF  Recebeste 2 Pedaços de Sushi.
+0x000000003FC2BD08  Recebeste 9.500 Pontos de Experiência.[ENTER]Recebeste 2.000 Yang.
+0x000000003FC2BD35  Recebeste 2.000 Yang.
+0x000000003FC2C0D0  Recebeste 45.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.
+0x000000003FC2C0FE  Recebeste 10.000 Yang.
+0x000000003FC2C180  Recebeste 1.000.000 Pontos de Experiência.[ENTER]Recebeste 15.000 Yang.
+0x000000003FC2C1B1  Recebeste 15.000 Yang.
+0x000000003FC2C1D8  Recebeste 100.000 Pontos de Experiência.[ENTER]Recebeste 5.000 Yang.
+0x000000003FC2C207  Recebeste 5.000 Yang.
+0x000000003FC2C390  Recebeste 550 Pontos de Experiência.[ENTER]Recebeste 1.000 Yang.
+0x000000003FC2C3BB  Recebeste 1.000 Yang.
+0x000000003FC2C440  Recebeste 48.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.
+0x000000003FC2C46E  Recebeste 10.000 Yang.
+0x000000003FC2C548  Recebeste 1.500.000 Pontos de Experiência.[ENTER]Recebeste 20.000 Yang.
+0x000000003FC2C579  Recebeste 20.000 Yang.
+0x000000003FE7F6B0  Recebeste Brincos de Ametista+3
+0x000000003FE7F718  Recebeste Brincos de Ametista+3
+0x000000003FE7F780  Recebeste Brincos de Ametista+3
+0x000000003FE7F7E8  Recebeste Brincos de Ametista+3
+0x000000003FE7F850  Recebeste Brincos de Ametista+3
+0x000000003FE7F8B8  Recebeste Brincos de Ametista+3
+0x000000003FE7FAC0  Recebeste Brincos de Ametista+3
+0x000000003FE7FC60  Recebeste Brincos de Ametista+3
+0x000000003FE7FE68  Recebeste Brincos de Ametista+3
+0x000000003FE7FFA0  Recebeste Brincos de Ametista+3
+0x000000003FE801A8  Recebeste Brincos de Ametista+3
+0x0000000040A24EC0  Recebeste Leque de Fénix+2
+0x0000000040A24F90  Recebeste Leque de Fénix+2
+0x0000000040A25060  Recebeste Leque de Fénix+2
+0x0000000040A25198  Recebeste Leque de Fénix+2
+0x0000000040A25200  Recebeste Leque de Fénix+2
+0x0000000040A25268  Recebeste Leque de Fénix+2
+0x0000000040A258E8  Recebeste Leque de Fénix+2
+0x0000000040A25950  Recebeste Leque de Fénix+2
+0x0000000040A25A20  Recebeste Leque de Fénix+2
+0x0000000040A25B58  Recebeste Leque de Fénix+2
+0x0000000040A260A0  Recebeste Leque de Fénix+2
+0x0000000040A50690  Recebeste 10.000 Yang.
+0x0000000040A50820  Recebeste 10.000 Yang.
+0x0000000040A50C30  Recebeste 30.000 Yang.
+0x0000000040A511D0  Recebeste 25.000 Yang.
+0x0000000040A51478  Recebeste 12.000 Yang.
+0x0000000040A51590  Recebeste 50.000 Yang.
+0x0000000040A51978  Recebeste uma Armadura Leão+3.
+0x0000000040A51B30  Recebeste 20.000 Yang.
+0x0000000040A51BA8  Recebeste um Leque Aquático+3
+0x0000000040A51BD0  Recebeste 20.000 Yang.
+0x0000000040A51BF8  Recebeste 20.000 Yang.
+0x0000000040A51D60  Recebeste uma Espada de Prata+3
+0x0000000040A51DD8  Recebeste um Robe Amoroso+3.
+0x0000000040A51E50  Recebeste um Anel de Idiomas.
+0x0000000040A51F68  Recebeste 25.000 Yang.
+0x0000000040A52238  Recebeste um Capuz de Aço+1.
+0x0000000040A52350  Recebeste Sapatos em Jade+3.
+0x0000000040A52468  Recebeste um Livro de Missão.
+0x0000000040A52760  Recebeste 35.000 Yang.
+0x0000000040A527D8  Recebeste 35.000 Yang.
+0x0000000040A528F0  Recebeste 65.000 Yang.
+0x0000000040A52B20  Recebeste Capas de Bravura.
+0x0000000040A52D28  Recebeste 3 Diamantes.
+0x0000000040A53020  Recebeste 50.000 Yang.
+0x0000000040A53200  Recebeste 30.000 Yang.
+0x0000000040A532A0  Recebeste 30.000 Yang.
+0x0000000040A53340  Recebeste 30.000 Yang.
+0x0000000040A53430  Recebeste o Livro do Líder.
+0x0000000040A53688  Recebeste 700.000 Yang.
+0x0000000040A53958  Recebeste 20.000 Yang.
+0x0000000040A539D0  Recebeste 50.000 Yang.
+0x0000000040A53DE0  Recebeste 70.000 Yang.
+0x0000000040A55348  Recebeste %d Pedras Reluzentes.
+0x0000000040A56018  Recebeste um Tomo do Despertar.
+0x0000000040A566A8  Recebeste %d Yang.
+0x0000000040A57058  Recebeste um Bambi.
+0x0000000040A57BE8  Recebeste a Bênção da Vida.
+0x0000000040A57C88  Recebeste uma recompensa.
+0x0000000040A57CD8  Recebeste uma recompensa.
+0x0000000040A57F30  Recebeste %d Luvas de Ladrão.
+0x0000000040A58188  Recebeste %d licença de luvas.
+0x0000000040A58200  Recebeste %d bênçãos.
+0x0000000040A58B38  Recebeste %d Pedras do Ritual.
+0x0000000040A59358  Recebeste uma Orison Pequena.
+0x0000000040A593D0  Recebeste uma Orison Pequena.
+0x0000000040A59470  Recebeste um Cofre do Dragão.
+0x0000000040A59600  Recebeste uma Terceira Mão.
+0x0000000040A59650  Recebeste um Livro de Missão.
+0x0000000040A5A488  Recebeste %d Forragem.
+0x0000000040A5A528  Recebeste %d Forragem.
+0x0000000040A5B478  Recebeste %s Yang.
+0x0000000040A5B7E8  Recebeste 5 Bênçãos do Dragão.
+0x0000000041040578  Recebeste %s.
+0x00000000410B0D58  Recebeste 850 Pontos de Experiência.[ENTER]Recebeste 5.000 Yang.[ENTER]Recebeste 20 Poções Azuis.
+0x00000000410B0D83  Recebeste 5.000 Yang.[ENTER]Recebeste 20 Poções Azuis.
+0x00000000410B0D9F  Recebeste 20 Poções Azuis.
+0x00000000410B24F6  Recebeste 20.000 Yang.[ENTER]Recebeste uma Peça d'Ouro.
+0x00000000410B2513  Recebeste uma Peça d'Ouro.
+0x00000000410B2B86  Recebeste 10.000 Yang.[ENTER]Recebeste um Livro de Habilidades.
+0x00000000410B2BA3  Recebeste um Livro de Habilidades.
+0x00000000410B3126  Recebeste 5.000 Yang.[ENTER]Recebeste uma Garra de Lobo.
+0x00000000410B3142  Recebeste uma Garra de Lobo.
+0x00000000410B33C8  Recebeste 3.000 Pontos de Experiência.[ENTER]Recebeste 5.000 Yang.[ENTER]Recebeste um Pêlo de Lobo.
+0x00000000410B33F5  Recebeste 5.000 Yang.[ENTER]Recebeste um Pêlo de Lobo.
+0x00000000410B3411  Recebeste um Pêlo de Lobo.
+0x00000000410B346E  Recebeste 15.000 Yang.[ENTER]Recebeste um Nariz de Porco.
+0x00000000410B348B  Recebeste um Nariz de Porco.
+0x00000000410B3530  Recebeste 36.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.[ENTER]Recebeste um Ornamento.
+0x00000000410B355E  Recebeste 10.000 Yang.[ENTER]Recebeste um Ornamento.
+0x00000000410B357B  Recebeste um Ornamento.
+0x00000000410B42F7  Recebeste 30.000 Yang.[ENTER]Recebeste Brincos d'Ouro.
+0x00000000410B4314  Recebeste Brincos d'Ouro.
+0x00000000410B43E7  Recebeste 25.000 Yang.[ENTER]Recebeste um Colar d'Ouro +4.
+0x00000000410B4404  Recebeste um Colar d'Ouro +4.
+0x00000000410B44D7  Recebeste 20.000 Yang.[ENTER]Recebeste uma Pulseira de Prata.
+0x00000000410B44F4  Recebeste uma Pulseira de Prata.
+0x00000000410B46B6  Recebeste 10.000 Yang.[ENTER]Recebeste um Bilhete de Equitação.
+0x00000000410B46D3  Recebeste um Bilhete de Equitação.
+0x00000000410B5D08  Recebeste uma Esmeralda Arbórea do Soberano[ENTER]En-Tai. Entrega-a ao Batedor da Floresta (DT).
+0x00000000410B6578  Recebeste uma Esmeralda Arbórea do Soberano[ENTER]En-Tai. Entrega-a ao Batedor da Floresta (FT).
+0x00000000411504E8  Recebeste %d.
+0x000000004148CDE8  Recebeste Brincos de Ametista+3
+0x000000004148CE50  Recebeste Brincos de Ametista+3
+0x000000004148D128  Recebeste Brincos de Ametista+3
+0x000000004148D260  Recebeste Brincos de Ametista+3
+0x000000004148D330  Recebeste Brincos de Ametista+3
+0x000000004148D398  Recebeste Brincos de Ametista+3
+0x000000004148D670  Recebeste Brincos de Ametista+3
+0x000000004148D6D8  Recebeste Brincos de Ametista+3
+0x000000004148DBB8  Recebeste Brincos de Ametista+3
+0x000000004148E2A0  Recebeste Brincos de Ametista+3
+0x000000004148E4A8  Recebeste Brincos de Ametista+3
+0x0000000045FF09E8  Recebeste %s
+0x0000000047B1B310  Recebeste uma recompensa adicional!
+0x00000000481142FE  Recebeste Vontade de Sung Ma (FRÇ) +%d.
+0x0000000048E80CB7  Recebeste Profundezas da Cobiça, M1.
+0x0000000048E876CE  Recebeste 12.000 Yang.[ENTER]Recebeste Sapatos Fita d'Ouro+4.[ENTER]Recebeste 5 Poções Roxas.
+0x0000000048E876EB  Recebeste Sapatos Fita d'Ouro+4.[ENTER]Recebeste 5 Poções Roxas.
+0x0000000048E87712  Recebeste 5 Poções Roxas.
+0x0000000048E99603  Recebeste um cofre do tesouro da Pedra Metin.
+0x0000000048E9965B  Recebeste a Bênção do Templo do Enigma como recompensa.
+0x0000000048E99EE0  Recebeste uma recompensa por teres atingido a posição %d na Caça ao Tesouro.
+0x0000000048EDBA40  Recebeste 10 pontos adicionais de probabilidade[ENTER]de Golpe Crítico.
+0x0000000048EDCB18  Recebeste 5 Poções Vermelhas(P) da Negociadora da[ENTER]Loja Geral.
+0x00000000496938BB  Recebeste uma Recompensa do Enigma. Consulta a tua Caixa de Mensagens para a aceitares.
+0x00000000496D9018  Recebeste Espada Grandiosa+0
+0x00000000496D9080  Recebeste Espada Grandiosa+0
+0x00000000496D90E8  Recebeste Espada Grandiosa+0
+0x00000000496D91B8  Recebeste Espada Grandiosa+0
+0x0000000049AF5850  Recebeste Leque de Fénix+2
+0x0000000049AF58D0  Recebeste Leque de Fénix+2
+0x0000000049AF59D0  Recebeste Leque de Fénix+2
+0x0000000049AF5A50  Recebeste Leque de Fénix+2
+0x0000000049AF5AD0  Recebeste Leque de Fénix+2
+0x0000000049AF5D50  Recebeste Leque de Fénix+2
+0x0000000049AF6150  Recebeste Leque de Fénix+2
+0x0000000049AF61D0  Recebeste Leque de Fénix+2
+0x0000000049AF6250  Recebeste Leque de Fénix+2
+0x0000000049AF6350  Recebeste Leque de Fénix+2
+0x0000000049AF63D0  Recebeste Leque de Fénix+2
+0x000000004B981E28  Recebeste %s Pontos de Experiência.
+0x000000004B983520  Recebeste %d Pedras do Ferreiro.
+0x000000004B983670  Recebeste %d Pergaminhos da Bênção
+0x000000004B983F30  Recebeste 9 Topázios da Vontade.
+0x000000004B9842E8  Recebeste Limalhas de Ferro. Recolhidas: %d
+0x000000004B984400  Recebeste %d Elixires do Sol (P).
+0x000000004B984940  Recebeste um Pergaminho do Retorno.
+0x000000004B984D68  Recebeste Escamas do Dragão Branco: %d
+0x000000004B984EF0  Recebeste Pelo Coberto de Gelo: %d
+0x000000004B984F60  Recebeste +3 Vontade de Sung Ma (RES).
+0x000000004B985628  Recebeste 8x Cofre do Dragão Branco (Difícil)
+0x000000004B985660  Recebeste 8x Cofre do Dragão Branco (Fácil)
+0x000000004B985970  Recebeste %dx Poeira da Serpente.
+0x000000004B985C80  Recebeste %dx Tesouro da Serpente.
+0x000000004B985F20  Recebeste o Livro do Cavalo Dourado (%s)
+0x000000004B9860A8  Recebeste alguma Forragem. Quantidade: %d
+0x000000004B986460  Recebeste o Livro do Cavalo Dourado
+0x000000004B986690  Recebeste 1x Licença de Mercenário.
+0x000000004B987880  Recebeste 1 fragmento. Quantidade em falta: %d
+0x000000004B9886F0  Recebeste 2 Pedras do Teleporte+.
+0x000000004B988A00  Recebeste um pedaço de tecido fantasmagórico.
+0x000000004B988B50  Recebeste um fio de cabelo fantasmagórico.
+0x000000004B988DF0  Recebeste uma Carta de Tarot. Em falta: %d
+0x000000004B989800  Recebeste %d Fragmentos de Energia.
+0x000000004BA4B1E0  Recebeste %s.
+0x000000004BA50920  Recebeste %s
+0x000000004BA51320  Recebeste %s
+0x000000004C4334C8  Recebeste Pontos de Equitação depois de ler o Livro Arte de Equitação.
+0x000000004C619DD1  Recebeste 270.000 Yang.[ENTER]Recebeste um Manual de Habilidades.
+0x000000004C619DEF  Recebeste um Manual de Habilidades.
+0x000000004EA4F478  Recebeste o teu novo penteado.
+0x000000004EBD7A20  Recebeste 1.500 Pontos de Experiência.[ENTER]Recebeste 1.000 Yang.
+0x000000004EBD7A4D  Recebeste 1.000 Yang.
+0x000000004EBD7D38  Recebeste 6.000 Pontos de Experiência.[ENTER]Recebeste 2.000 Yang.
+0x000000004EBD7D65  Recebeste 2.000 Yang.
+0x000000004EBD7E98  Recebeste 1.000 Pontos de Experiência.[ENTER]Recebeste 1.500 Yang.
+0x000000004EBD7EC5  Recebeste 1.500 Yang.
+0x000000004EBD80A8  Recebeste 4.000 Pontos de Experiência.[ENTER]Recebeste 3.000 Yang.
+0x000000004EBD80D5  Recebeste 3.000 Yang.
+0x000000004EBD8418  Recebeste 300.000 Pontos de Experiência.[ENTER]Recebeste 20.000 Yang.
+0x000000004EBD8447  Recebeste 20.000 Yang.
+0x000000004EBD8470  Recebeste 1.900.000 Pontos de Experiência.[ENTER]Recebeste 30.000 Yang.
+0x000000004EBD84A1  Recebeste 30.000 Yang.
+0x000000004EBD8520  Recebeste 600.000 Pontos de Experiência.[ENTER]Recebeste 35.000 Yang.
+0x000000004EBD854F  Recebeste 35.000 Yang.
+0x000000004EBD8680  Recebeste 122.000 Pontos de Experiência.[ENTER]Recebeste 5.000 Yang.
+0x000000004EBD86AF  Recebeste 5.000 Yang.
+0x000000004EBD88E8  Recebeste 122.000 Pontos de Experiência.[ENTER]Recebeste 20.000 Yang.
+0x000000004EBD8917  Recebeste 20.000 Yang.
+0x000000004EBD8A48  Recebeste 26.000 Pontos de Experiência.[ENTER]Recebeste 10.000 Yang.
+0x000000004EBD8A76  Recebeste 10.000 Yang.
+0x000000004EBD95F8  Recebeste uma Pulseira d'Ouro, um Colar d'Ouro e[ENTER]Brincos d'Ouro.
+0x000000004EBD9808  Recebeste 3 Golpes Críticos.[ENTER]Recebeste 3 Golpes Perfuradores.
+0x000000004EBD982B  Recebeste 3 Golpes Perfuradores.
+0x000000004EE31FAB  Recebeste um 9<"ŸeÎŒÀãNÀãN da Pedra Metin.
+0x000000004F5684D8  Recebeste %d Won.
+0x000000004F569CC0  Recebeste os teus bónus.
+0x000000004F56A238  Recebeste %d Yang.
+0x000000004F56AC88  Recebeste %d Chama(s) da Morte.
+0x000000004F677048  Recebeste %d.
+0x000000004F689E88  Recebeste %d.
+0x000000004FA9D856  Recebeste 12.000 Yang.[ENTER]Recebeste Sapatos Fita d'Ouro+4.[ENTER]Recebeste 5 Poções Roxas.
+0x000000004FA9D873  Recebeste Sapatos Fita d'Ouro+4.[ENTER]Recebeste 5 Poções Roxas.
+0x000000004FA9D89A  Recebeste 5 Poções Roxas.
+0x000000004FAA5077  Recebeste Profundezas da Cobiça, M1.
+0x000000004FBF9F20  Recebeste 1 pedaço de roupa dos espíritos. Em falta: %d
+0x000000004FBF9FF8  Recebeste 1 pedaço de minério. Quantidade em falta: %d
+0x000000005F2B7FB0  Recebeste Espada Grandiosa+0
+0x000000005F2B80E8  Recebeste Espada Grandiosa+0
+0x000000005F2B8970  Recebeste Espada Grandiosa+0
+0x000000005F2B89D8  Recebeste Espada Grandiosa+0
+0x000000005F2B8A40  Recebeste Espada Grandiosa+0
+0x000000005F2B8B78  Recebeste Espada Grandiosa+0
+0x000000005F2B8DE8  Recebeste Espada Grandiosa+0
+0x000000005F2B8E50  Recebeste Espada Grandiosa+0
+0x000000005F2B8EB8  Recebeste Espada Grandiosa+0
+0x000000005F2B9260  Recebeste Espada Grandiosa+0
+0x000000005F2B9398  Recebeste Espada Grandiosa+0
+0x000000005FA902B8  Recebeste %s
+0x000000006351EAA8  Recebeste %s Yang.
+0x0000000064EA1668  Recebeste Colar de Cristal+2
+0x0000000064EA16D0  Recebeste Colar de Cristal+2
+0x0000000064EA1E88  Recebeste Colar de Cristal+2
+0x0000000064EA1F58  Recebeste Colar de Cristal+2
+0x0000000064EA2090  Recebeste Colar de Cristal+2
+0x0000000064EA20F8  Recebeste Colar de Cristal+2
+0x0000000064EA2160  Recebeste Colar de Cristal+2
+0x0000000064EA2300  Recebeste Brincos de Ametista+3
+0x0000000064EA2368  Recebeste Brincos de Ametista+3
+0x0000000064EA23D0  Recebeste Espada Grandiosa+0
+0x0000000064EA2438  Recebeste Brincos de Ametista+3
+0x0000000064EA24A0  Recebeste Espada Grandiosa+0
+0x0000000064EA2508  Recebeste Colar de Cristal+2
+0x0000000064EA2570  Recebeste Espada Grandiosa+0
+0x0000000064EA25D8  Recebeste Espada Grandiosa+0
+0x0000000064EA2640  Recebeste Leque de Fénix+2
+0x0000000064EA26A8  Recebeste Espada Grandiosa+0
+0x0000000064EA2710  Recebeste Espada Grandiosa+0
+0x0000000064EA2778  Recebeste Espada Grandiosa+0
+0x0000000064EA27E0  Recebeste Colar de Cristal+2
+0x0000000064EA2848  Recebeste Colar de Cristal+2
+0x0000000064EA28B0  Recebeste Espada Grandiosa+0
+0x0000000064EA2918  Recebeste Leque de Fénix+2
+0x0000000064EA2980  Recebeste Espada Grandiosa+0
+0x0000000064EA29E8  Recebeste Leque de Fénix+2
+0x0000000064EA2A50  Recebeste Leque de Fénix+2
+0x0000000064EA2AB8  Recebeste Leque de Fénix+2
+0x0000000064EA2B20  Recebeste Espada Grandiosa+0
+0x0000000064EA2B88  Recebeste Leque de Fénix+2
+0x0000000064EA2C58  Recebeste Leque de Fénix+2
+0x0000000064EA2CC0  Recebeste Colar de Cristal+2
+0x0000000064EA2D28  Recebeste Leque de Fénix+2
+0x0000000064EA2D90  Recebeste Leque de Fénix+2
+0x0000000064EA2DF8  Recebeste Espada Grandiosa+0
+0x0000000064EA2E60  Recebeste Leque de Fénix+2
+0x0000000064EA2EC8  Recebeste Leque de Fénix+2
+0x0000000064EA2F30  Recebeste Brincos de Ametista+3
+0x0000000064EA2F98  Recebeste Brincos de Ametista+3
+0x0000000064EA3270  Recebeste Brincos de Ametista+3
+0x0000000064EA3478  Recebeste Brincos de Ametista+3
+0x0000000064EA34E0  Recebeste Brincos de Ametista+3
+0x0000000064EA37B8  Recebeste Brincos de Ametista+3
+0x0000000064EA3B60  Recebeste Brincos de Ametista+3
+0x0000000064EA3C98  Recebeste Brincos de Ametista+3
+0x0000000064EA9868  Recebeste Flor de Kaki
+0x0000000064EA99A0  Recebeste Flor de Kaki
+0x0000000064EA9C78  Recebeste Flor de Kaki
+0x0000000064EA9CE0  Recebeste Flor de Kaki
+0x0000000064EA9D48  Recebeste Flor de Kaki
+0x0000000064EA9DB0  Recebeste Flor de Kaki
+0x0000000064EA9FB8  Recebeste Flor de Kaki
+0x0000000064EAA020  Recebeste Flor de Kaki
+0x0000000064EAA228  Recebeste Flor de Kaki
+0x0000000064EAA290  Recebeste Flor de Kaki
+0x0000000064EAA2F8  Recebeste Flor de Kaki
+0x0000000064EACC00  Recebeste Arco de Cobre+0
+0x0000000064EACC68  Recebeste Arco de Cobre+0
+0x0000000064EACD38  Recebeste Arco de Cobre+0
+0x0000000064EACDA0  Recebeste Arco de Cobre+0
+0x0000000064EAD148  Recebeste Arco de Cobre+0
+0x0000000064EAD1B0  Recebeste Arco de Cobre+0
+0x0000000064EAD218  Recebeste Arco de Cobre+0
+0x0000000064EAD280  Recebeste Arco de Cobre+0
+0x0000000064EAD2E8  Recebeste Arco de Cobre+0
+0x0000000064EAD3B8  Recebeste Arco de Cobre+0
+0x0000000064EAD420  Recebeste Botas em Pele+2
+0x0000000064EAD488  Recebeste Botas em Pele+2
+0x0000000064EAD4F0  Recebeste Botas em Pele+2
+0x0000000064EAD760  Recebeste Arco de Cobre+0
+0x0000000064EAD968  Recebeste Botas em Pele+2
+0x0000000064EADAA0  Recebeste Flor de Kaki
+0x0000000064EADB08  Recebeste Flor de Kaki
+0x0000000064EADB70  Recebeste Flor de Kaki
+0x0000000064EADBD8  Recebeste Flor de Kaki
+0x0000000064EADC40  Recebeste Flor de Kaki
+0x0000000064EADCA8  Recebeste Botas em Pele+2
+0x0000000064EADD10  Recebeste Flor de Kaki
+0x0000000064EADDE0  Recebeste Botas em Pele+2
+0x0000000064EADE48  Recebeste Flor de Kaki
+0x0000000064EAE050  Recebeste Flor de Kaki
+0x0000000064EAE0B8  Recebeste Botas em Pele+2
+0x0000000064EAE188  Recebeste Botas em Pele+2
+0x0000000064EAE258  Recebeste Botas em Pele+2
+0x0000000064EAE328  Recebeste Flor de Kaki
+0x0000000064EAE390  Recebeste Botas em Pele+2
+0x0000000064EAE3F8  Recebeste Botas em Pele+2
+0x0000000064EAE460  Recebeste Flor de Kaki
+0x0000000064EAE4C8  Recebeste Flor de Kaki
+0x00000000656622D8  Recebeste Escamas de Serpente. Itens recolhidos: %d
+0x0000000065662A70  Recebeste uma Relíquia da Alma para a tua classe.
+0x0000000065662D88  Recebeste um pelo grosso. Total de pelos grossos: %d
+0x0000000065663370  Recebeste uma espada partida. Leva-a a um[ENTER]Ferreiro.
+0x0000000065663448  Recebeste 10 pontos adicionais de Rapidez de[ENTER]Ataque.
+0x00000000656637F0  Recebeste 10 pontos adicionais de Forte contra[ENTER]Animais.
+0x0000000065669700  Recebeste Sangue do Rei Chama.[ENTER]Regressa ao Yon-I-Walker.
+0x000000006566A4C8  Recebeste 24.000 Pontos de Experiência e 3.500[ENTER]Yang.
+0x0000000065671740  Recebeste permanentemente +%d Vontade de Sung Ma[ENTER](RES)!
+0x000000006EE1AA88  Recebeste 532 Yang.
+0x000000006EE1AAE0  Recebeste 532 Yang.
+0x000000006EE1ACF0  Recebeste 532 Yang.
+0x000000006EE1AF00  Recebeste 532 Yang.
+0x000000006EE1AF58  Recebeste 532 Yang.
+0x000000006EE1B1C0  Recebeste 532 Yang.
+0x000000006EE1B270  Recebeste 532 Yang.
+0x000000006EE1B2C8  Recebeste 532 Yang.
+0x000000006EE1B320  Recebeste 532 Yang.
+0x000000006EE1B3D0  Recebeste 532 Yang.
+0x000000006EE1B480  Recebeste 532 Yang.
+0x000000006EF2B470  Recebeste uma Espada Larga+3.
+0x000000006EF2B510  Recebeste um Leque de Pavão+3.
+0x000000006EF315A0  Recebeste uma %s.
+0x000000006EF31CA8  Recebeste %s, %s unidades.
+0x000000006EF31F78  Recebeste uma Lágrima de Deusa.
+0x000000006EF321A8  Recebeste 50.000 Yang.
+0x000000006EF321D0  Recebeste uma Bênção da Vida.
+0x000000006EF32220  Recebeste 10 Bandeiras Brancas.
+0x000000006EF32270  Recebeste uma Bênção da Magia.
+0x000000006EF32400  Recebeste 50.000 Yang.
+0x000000006EF32428  Recebeste 50.000 Yang.
+0x000000006EF324F0  Recebeste uma Bênção do Dragão.
+0x000000006EF326D0  Recebeste 137.500 Yang.
+0x000000006EF32860  Recebeste 75.000 Yang.
+0x000000006EF328B0  Recebeste 125.000 Yang.
+0x000000006EF329C8  Recebeste %s Yang.
+0x000000006EF32A18  Recebeste 175.000 Yang.
+0x000000006EF32A68  Recebeste Pêlo de Lobo+.
+0x000000006EF32AE0  Recebeste %d Yang.
+0x000000006EF32BA8  Recebeste um Livro do Líder.
+0x000000006EF32C70  Recebeste 162.500 Yang.
+0x000000006EF33F80  Recebeste o saco.
+0x000000006EF342F0  Recebeste um Saco de Moedas.
+0x000000006EF35C90  Recebeste 17.500 Yang.
+0x000000006EF36258  Recebeste 500.000 Yang.
+0x000000006EF362D0  Recebeste 32.000 Yang.
+0x000000006EF36348  Recebeste %s Yang.
+0x000000006EF36780  Recebeste 125.000 Yang.
+0x000000006EF36910  Recebeste 25.000 Yang.
+0x000000006EF36BE0  Recebeste %s Yang.
+0x000000006EF38DC8  Recebeste %s Yang
+0x000000006EF39340  Recebeste Pontos de Habilidade.
+0x000000006EF3A678  Recebeste uma Armadura Tigre+3.
+0x000000006EF3A740  Recebeste um Quimono Carmim+3.
+0x000000006F0AD678  Recebeste Espada Grandiosa+0
+0x000000006F0AD748  Recebeste Espada Grandiosa+0
+0x000000006F0AD7B0  Recebeste Espada Grandiosa+0
+0x000000006F0AD818  Recebeste Espada Grandiosa+0
+0x000000006F0AD8E8  Recebeste Leque de Fénix+2
+0x000000006F0ADA20  Recebeste Espada Grandiosa+0
+0x000000006F0ADA88  Recebeste Espada Grandiosa+0
+0x000000006F0ADAF0  Recebeste Leque de Fénix+2
+0x000000006F0ADD60  Recebeste Espada Grandiosa+0
+0x000000006F0ADDC8  Recebeste Leque de Fénix+2
+0x000000006F0ADE30  Recebeste Leque de Fénix+2
+0x000000006F0ADE98  Recebeste Leque de Fénix+2
+0x000000006F0ADF00  Recebeste Leque de Fénix+2
+0x000000006F0ADFD0  Recebeste Leque de Fénix+2
+0x000000006F0AE038  Recebeste Leque de Fénix+2
+0x000000006F0AE0A0  Recebeste Leque de Fénix+2
+0x000000006F0AE2A8  Recebeste Espada Grandiosa+0
+0x000000006F0AE310  Recebeste Espada Grandiosa+0
+0x000000006F0AE378  Recebeste Espada Grandiosa+0
+0x000000006F0AE3E0  Recebeste Espada Grandiosa+0
+0x000000006F0AE448  Recebeste Leque de Fénix+2
+0x000000006F0AE4B0  Recebeste Leque de Fénix+2
+0x000000006F0AE5E8  Recebeste 252 Yang.
+0x000000006F0AE650  Recebeste 252 Yang.
+0x000000006F0AE6B8  Recebeste 252 Yang.
+0x000000006F0AE720  Recebeste 252 Yang.
+0x000000006F0AE788  Recebeste 252 Yang.
+0x000000006F0AEC00  Recebeste 252 Yang.
+0x000000006F0AEC68  Recebeste 252 Yang.
+0x000000006F0AEF40  Recebeste 252 Yang.
+0x000000006F0AF148  Recebeste 252 Yang.
+0x000000006F0AF1B0  Recebeste 252 Yang.
+0x000000006F0AF218  Recebeste 252 Yang.
+0x000000006F2E4DB0  Recebeste uma Esmeralda Arbórea do Soberano[ENTER]En-Tai. Entrega-a ao Batedor da Floresta.
+0x000000006F2E5910  Recebeste Madeira Fina do Soberano En-Tai.[ENTER]Regressa ao Batedor da Floresta e informa-o.
+0x000000006F2E7720  Recebeste o Colar de Farpas. A carta encontra-se[ENTER]num bolso no seu interior.
+0x000000006F2E9258  Recebeste algumas Lanças para Caçar Baleias do[ENTER]Ferreiro. Leva-as ao Pescador.
+0x000000006F2EC7D2  Recebeste 30.000 Yang.
+0x000000006F2F4170  Recebeste toda a resistência das tuas missões.[ENTER]Recebe a recompensa na janela da missão.
+0x000000006F2F42A8  Recebeste o teu Cavalo de Guerra Poderoso e %d[ENTER]Ginseng Vermelho (Premium).
+0x000000006F2F4C00  Recebeste 100 Dobrões e podes ver os resultados[ENTER]no menu da Caça ao Tesouro.
+0x000000006F2F4CD0  Recebeste uma Chave do Duende adicional por teres[ENTER]feito %d escoltas bem-sucedidas.
+0x000000006F2FE0B0  Recebeste toda a resistência das tuas missões. Recebe a recompensa na janela da missão.
+0x000000006F2FE590  Recebeste uma recompensa secreta por teres participado na Caça ao Tesouro %d vezes.
+0x00000000784E5C00  Recebeste um bónus de armazém de %d%% Forte contra Monstros.
+0x00000000784E670D  Recebeste uma missão para o minijogo.
+0x00000000784E6A6B  Recebeste um Rebento de Lírio-do-Vale.
+0x00000000784E6AB3  Recebeste um Rebento de Lírio.
+0x00000000784E6BD3  Recebeste um Rebento de Crisântemo.
+0x00000000784E6C1B  Recebeste um Rebento de Girassol.
+0x00000000784E6E5B  Recebeste um Rebento de Narciso.
